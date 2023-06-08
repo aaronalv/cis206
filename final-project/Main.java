@@ -1,3 +1,11 @@
+/*
+ * File: Main.java
+ * Description: This is the main file for CIS-206 file; also requires Mountains.java
+ * Created: June 8, 2023, 11:09 AM
+ * Author: Aaron Alvarado
+ * Email: aarona5488@student.vvc.edu
+ */
+
 import java.util.LinkedList;
 
 public class Main {

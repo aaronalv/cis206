@@ -1,3 +1,11 @@
+/*
+ * File: Mountains.java
+ * Description: This is class Mountains that runs with Main.java file for CIS-206 final
+ * Created: June 8, 2023, 11:09 AM
+ * Author: Aaron Alvarado
+ * Email: aarona5488@student.vvc.edu
+ */
+
 public class Mountains {
     // Private fields name, country, and elevation are created
     private String name;
