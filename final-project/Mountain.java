@@ -1,19 +1,19 @@
 /*
- * File: Mountains.java
- * Description: This is class Mountains that runs with Main.java file for CIS-206 final
+ * File: Mountain.java
+ * Description: This is class Mountain that runs with Main.java file for CIS-206 final
  * Created: June 8, 2023, 11:09 AM
  * Author: Aaron Alvarado
  * Email: aarona5488@student.vvc.edu
  */
 
-public class Mountains {
+ public class Mountain {
     // Private fields name, country, and elevation are created
     private String name;
     private String country;
     private double elevation;
 
     // Constructor that requires name, country, and elevation
-    public Mountains(String name, String country, double elevation) {
+    public Mountain(String name, String country, double elevation) {
         setName(name);
         setCountry(country);
         setElevation(elevation);
